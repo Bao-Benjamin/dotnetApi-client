@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("baoAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db8fa01508278f100b3117723fc561869ac4fe7e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8638534bd4e7296256f329b6a21a0a64521ca1e")]
 [assembly: System.Reflection.AssemblyProductAttribute("baoAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("baoAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
